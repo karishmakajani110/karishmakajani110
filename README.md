@@ -1,28 +1,11 @@
 ## Hi, I’m Karishma 👋
 
-I’m a **Data Analyst** with hands-on experience working with real-world datasets using **SQL, Python, Excel, Power BI, and Tableau**.
+- Data Analyst with hands-on experience using **SQL, Python, Excel, Power BI, and Tableau**
+- Master’s graduate in **Management Information Systems** from the **University of Houston Clear Lake**
+- Focused on data cleaning, analysis, and dashboard development
+- Currently seeking **entry-level / junior data analyst opportunities**
 
-I recently graduated with my **master’s degree in Management Information Systems from the University of Houston Clear Lake**.
+🔗 Portfolio: https://karishmakajani110.github.io/KarishmaKajani.github.io/  
+📂 Projects: https://github.com/karishmakajani110/Data-Analytics-Projects  
+🔗 LinkedIn: https://www.linkedin.com/in/karishma-kajani/
 
----
-
-### 📊 My Work
-You can find all of my data analytics projects here:  
-👉 **Data Analytics Projects Repository**  
-https://github.com/karishmakajani110/Data-Analytics-Projects
-
----
-
-### 🌐 Portfolio
-View my complete portfolio here:  
-https://karishmakajani110.github.io/KarishmaKajani.github.io/
-
----
-
-### 🎯 Status
-Currently seeking data analyst opportunities**.
-
----
-
-### 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/karishma-kajani/
